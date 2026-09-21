@@ -1,5 +1,3 @@
-
-
 def caesar_cipher(message, shift_factor)
   if shift_factor < 1
     return
